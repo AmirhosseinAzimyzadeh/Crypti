@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Crypti</string>
+    <string name="test_output">
+        \n
+        HOW TO USE ?\n
+        \t 1 - write valid key or click on circular crypti icon to generate a random key\n
+        \t 2 - paste or type your [ encrypted text/Original text ]\n
+        \t 3 - click on [Encrypting/Decrypting Button]\n
+        \n
+        \n
+        *[ EACH TIME YOU CAN ONLY GENERATE 5 KEY ]
+        \n
+        \n
+        OPEN SOURCE LIBRARIES :\n
+        \n
+        PushDownAnim | Copyright 2017 TheKhaeng
+        Licensed under the Apache License, Version 2.0\n
+        http://www.apache.org/licenses/LICENSE-2.0
+        \n
+        \n
+
+        \n
+
+        \n
+        Version :  1.0.0
+        \n
+        Permission(s) : android.permission.VIBRATE
+        \n
+        Last Update :  2 Nov. 2018
+        \n
+        Programmer : Amirhossein_Azm
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
