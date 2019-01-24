@@ -2,7 +2,7 @@
 
 
 # Crypti
-is an simple application to encrypt or decrypt a string (text) with CBC Algorithm  that
+is a simple application to encrypt or decrypt a string (text) with CBC Algorithm  that
 generate key automatically.
 
 ## Copyright
